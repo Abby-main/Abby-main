@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abby-main&label=Profile%20views&color=0e75b6&style=flat" alt="abby-main" /> </p>
 
 - > I’m currently learning **C#**
-  > I’m also learning **GDScript**
+  
+- > I’m also learning **GDScript**
 
 - > How to reach me **ari_main@protonmail.com**
 
