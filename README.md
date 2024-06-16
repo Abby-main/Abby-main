@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abigail</h1>
-<h3 align="center">I'm a Brazilian programmer and guitarrist mainly interested in robotics and gamedev, i speak both english and portuguese.</h3>
+<h3 align="center">I'm a Brazilian student mainly interested in robotics and music, i speak both english and portuguese.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abby-main&label=Profile%20views&color=0e75b6&style=flat" alt="abby-main" /> </p>
 
